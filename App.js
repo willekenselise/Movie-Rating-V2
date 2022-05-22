@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import IndexFilm from './components/ListFilm/index.js'
-import DetailsFilm from "./components/detailsFilm.js";
-import Login from "./components/login.js";
+import IndexFilm from './components/ListFilm/Index.js'
+import DetailsFilm from "./components/DetailsFilm.js";
+import Login from "./components/Login.js";
 
 const Stack = createNativeStackNavigator();
 
