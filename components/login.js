@@ -28,18 +28,17 @@ const login = () => {
 
 const styles = StyleSheet.create({
   input:{
-    border : '1px solid #000',
+    borderWidth: 1,
     padding: 10,
-    margin: '10px 20px',
+    margin: 10,
     borderRadius: 15,
     width : 300,
   },
   container:{
     flex: 1,
     display : 'flex',
-    flexDirection: 'colunm',
+    flexDirection: 'column',
     justifyContent: 'center',
-    gap: 20,
     alignItems: 'center'
   },
   button:{
@@ -59,7 +58,7 @@ const styles = StyleSheet.create({
   },
   name:{
     fontSize: 32,
-    fontStyle : 'bold',
+    //fontStyle : 'bold',
   }
 });
 

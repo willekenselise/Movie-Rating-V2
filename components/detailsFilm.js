@@ -21,7 +21,7 @@ const DetailsScreen = () => {
 
 const styles = StyleSheet.create({
   image: {
-    flex : '1',
+    flex : 1,
     height: 200,
   },
   container:{

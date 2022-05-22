@@ -61,7 +61,7 @@ const listFilm = ({data}) => {
 
 const styles = StyleSheet.create({
   container: {
-    flex : '1',
+    flex : 1,
     padding: 20,
   },
   item :{
@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
     alignContent: 'flex-start'
   },
   name:{
-    fontStyle : 'bold',
+    //fontStyle : 'bold',
     fontSize : 22,
   },
   button:{
@@ -103,18 +103,17 @@ const styles = StyleSheet.create({
   search:{
     textAlign: 'left',
     fontSize: 20,
-    fontStyle:'bold',   
+    //fontStyle:'bold',   
   },
   input:{
-    border : '1px solid #000',
+    borderWidth: 1,
     padding: 10,
-    margin: '10px 20px',
+    margin: 10,
     borderRadius: 15,
   },
   searchContainer:{
     padding: 20,
     display: 'flex',
-    gap: 20,
   },
   smallFilm:{
     flexDirection: "row",

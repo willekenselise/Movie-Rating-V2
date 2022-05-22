@@ -50,10 +50,10 @@ const AddFilm = ({data, setData}) => {
 
 const styles = StyleSheet.create({
     container: {
-      flex : '1',
+      flex : 1,
       padding: 20,
       alignContent: 'flex-start',
-      gap: 15,
+      //gap: 15,
     },
     text: {
       color: '#000',
@@ -77,9 +77,9 @@ const styles = StyleSheet.create({
       textAlign: 'center'
     },
     input:{
-      border : '1px solid #000',
+        borderWidth: 1,
       padding: 10,
-      margin: '10px 20px',
+      margin: 10,
       borderRadius: 15,
       maxWidth : 300,
     },

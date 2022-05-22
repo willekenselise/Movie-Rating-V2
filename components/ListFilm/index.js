@@ -68,6 +68,7 @@ const Index = () => {
 
         </Tab.Navigator>
   );
+  
 };
 
 export default Index;
