@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Forrest Gump",
+        "date": "1994",
+        "description": "Forrest Gump, an innocent and kind-hearted Alabama boy, has been dealing with other people's unkindness nearly all his life. Having grown up with beautiful Jenny, his only friend, Forrest yearns to learn all about the ways of the world and embarks on a mission to find his true purpose in life.",
+        "image": "https://fr.web.img4.acsta.net/pictures/15/10/13/15/12/514297.jpg",
+        "rating": 9.2,
+        "time" : "2h20"
+    },
+    {
+        "title": "Schindler's List",
+        "date": "1994",
+        "description": "The war years of Oskar Schindler, an Austrian industrialist who returned to Krakow in 1939 with the German troops. Throughout the war, he protects Jews by making them work in his factory.",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "rating": 9,
+        "time" : "3h15"
+    },
+    {
+        "title": "The Green Mile",
+        "date": "1999",
+        "description": "Paul Edgecomb, a centenarian resident of a retirement home, is haunted by his memories. As the head guard at Cold Mountain Penitentiary in 1935, Louisiana, he was responsible for ensuring that the executions in E Block (the green line) went smoothly and that the last moments of the condemned men's lives were comfortable. ",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg",
+        "rating": 9.5,
+        "time" : "3h09"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "date": "2003",
+        "description": "As darkness spreads over Middle-earth, Aragorn reveals himself to be the hidden heir of the ancient kings. As for Frodo, still tempted by the Ring, he travels through enemy lands, relying on Sam and Gollum...",
+        "image": "https://fr.web.img3.acsta.net/medias/nmedia/18/35/14/33/18366630.jpg",
+        "rating": 8.2,
+        "time" : "3h21"
+    },
+    {
+        "title": "The Lion King",
+        "date": "2003",
+        "description": "The long struggle of Simba the lion cub to become king of the animals, after his deceitful uncle Scar killed his father and took his place.",
+        "image": "https://m.media-amazon.com/images/I/71r3Jo7RHsL._AC_SY606_.jpg",
+        "rating": 9,
+        "time" : "1h29"
+    },
+    {
+        "title": "Pulp Fiction",
+        "date": "1994",
+        "description": "The bloody and burlesque odyssey of small-time thugs in the Hollywood jungle through three intertwined stories.",
+        "image": "https://www.ecranlarge.com/uploads/image/001/121/7p8x4u3o3p1jzmbqny3zaloby3m-861.jpg",
+        "rating": 8.7,
+        "time" : "2h29"
+    }
+]
+   
